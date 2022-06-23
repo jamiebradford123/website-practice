@@ -1,0 +1,16 @@
+/* Good practice to always include margin and padding = 0*/
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+
+.header {
+    min-height: 100vh;
+    width: 100%;
+    background-image: url(images/gym.jpeg);
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
